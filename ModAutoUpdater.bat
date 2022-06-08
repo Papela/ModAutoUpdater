@@ -10,7 +10,7 @@ if %errorlevel%==1 (
     @echo Para poder usar la aplicacion instale java.
     @echo Pulsa cualquier boton para comenzar con la descarga e instalacion de java.
     pause
-    curl -o "re-8u333-windows-i586-iftw.exe" "https://github.com/Papela/ModAutoUpdater/blob/main/jre-8u333-windows-i586-iftw.exe?raw=true"
+    curl -o "re-8u333-windows-i586-iftw.exe" "jre-8u333-windows-i586-iftw.exe"
     @echo Cuando termine la instalacion, pula cualquier boton seleccionando esta ventana.
     pause
     cls
