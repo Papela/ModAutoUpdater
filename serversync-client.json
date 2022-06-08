@@ -1,0 +1,23 @@
+{
+  "general": {
+    "refuse_client_mods": false,
+    "sync_mode": 2
+  },
+  "connection": {
+    "address": "pcmarkospc.ddns.net",
+    "port": 38067,
+    "buffer": 65536
+  },
+  "rules": {
+    "files": {
+      "ignore": [
+        "**/serversync-*.jar",
+        "**/serversync-*.cfg"
+      ]
+    }
+  },
+  "misc": {
+    "locale": "es_ES",
+    "theme": "BLUE_YELLOW"
+  }
+}
